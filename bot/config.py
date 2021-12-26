@@ -12,7 +12,7 @@ TELEGRAM_API = 1206485
 TELEGRAM_HASH = "2897112fa3a92f6fcc61c73d6e2904c9"
 BASE_URL_OF_BOT = "https://torrentbullbot-2-82-1.herokuapp.com"  # Web Link, Required for (Heroku) to avoid sleep or use worker if you don't want to use web (selection)
 # OPTIONAL CONFIG
-DATABASE_URL = "postgres://bhzelzhl:TlJl7qijXtZVZpJQpgccsGpuet7tTUct@john.db.elephantsql.com/bhzelzhl"
+DATABASE_URL = "postgres://cobramovies:shubham@165.232.82.43:5432/cobradb"
 AUTHORIZED_CHATS = "-1001558257521"  # Split by space
 SUDO_USERS = "1167961858"  # Split by space
 IGNORE_PENDING_REQUESTS = "False"
